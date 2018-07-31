@@ -1,5 +1,4 @@
 # raintoken-ico
-Documents, tutorials, guides about the RAIN token ICO
 
 RainCheck was formed in November 2014 to enable online-to-offline (O2O) commerce. Created to influence and measure the high level of online product discovery/research and to connect those findings with the corresponding in-store sales transaction. We also offer card-linking where people can add offers, loyalty points or cash-back to any debit or credit payment card, replacing the loyalty card. Our award winning patent pending IP states that we can do this at SKU (Stock Keeping Unit) level, not just at the merchant level.
 
