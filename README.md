@@ -7,9 +7,9 @@ RainCheck was formed in November 2014 to enable online-to-offline (O2O) commerce
 There is a short demo about RainCheck O2O Shopping available on YouTube at https://youtu.be/FpPFyKqrlhQ
 <div align="left">
   <a href="https://www.youtube.com/watch?v=FpPFyKqrlhQ"><img src="https://img.youtube.com/vi/FpPFyKqrlhQ/0.jpg" alt="RainCheck O2O Shopping Demo"></a>
-</div><br><br>
-You can download the RainCheck O2O shopping app from App Store and Google Play Store
-App Store: https://itunes.apple.com/au/app/raincheck-smart-shopping/id992821386?mt=8
+</div><br><br />
+You can download the RainCheck O2O shopping app from App Store and Google Play Store <br />
+App Store: https://itunes.apple.com/au/app/raincheck-smart-shopping/id992821386?mt=8 <br />
 Google Play Store: https://play.google.com/store/apps/details?id=com.getraincheck.app&hl=en_AU
 
 ## RainCheck Loyalty Platform
