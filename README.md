@@ -6,6 +6,6 @@ The RainCheck Platform, when fully developed, will aim to provide a decentralise
 
 The RAIN Token has been created to carry out a transfer mechanism on the RainCheck Commerce Platform. This token is based on the Stellar protocol, which was specially designed to enable micro-payments that can handle very fast transactions at very low cost.
 
-<div align="center">
-  <a href="https://www.youtube.com/watch?v=FpPFyKqrlhQ"><img src="https://img.youtube.com/vi/FpPFyKqrlhQ/0.jpg" alt="RainCheck Shopping"></a>
+<div align="left">
+  <a href="https://www.youtube.com/watch?v=FpPFyKqrlhQ"><img src="https://img.youtube.com/vi/FpPFyKqrlhQ/0.jpg" alt="RainCheck O2O Shopping Demo"></a>
 </div>
