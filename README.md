@@ -5,3 +5,5 @@ RainCheck was formed in November 2014 to enable online-to-offline (O2O) commerce
 The RainCheck Platform, when fully developed, will aim to provide a decentralised platform through which token holders will be able to manage and aggregate reward points across multiple loyalty schemes. To enable this, RainCheck plans to provide consumers with the option to combine reward points from multiple loyalty schemes into one digital unit, the RAIN Token.
 
 The RAIN Token has been created to carry out a transfer mechanism on the RainCheck Commerce Platform. This token is based on the Stellar protocol, which was specially designed to enable micro-payments that can handle very fast transactions at very low cost.
+
+<iframe width="495" height="290" src="https://www.youtube.com/embed/FpPFyKqrlhQ?ecver=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
